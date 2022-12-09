@@ -89,12 +89,12 @@ function testPlace(playse){
             if(x[0] == x[1] & x[1] == x[2] & x[0]!=0){
                             if(x[0] == 1){
                                 console.log("if",x,"nice cock", x[0])
-                                return break;
+                               
                             }else{
                                 console.log(x,"nice cock", x[0])
                                 alert("you win")
                                 
-                                return break;
+                               
                                  
                                 
                             }
